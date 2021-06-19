@@ -1,5 +1,3 @@
--- Check if Disk Drive attached
-
 -- Table Functions for Config
 function tsave(table,name)
     local file = fs.open(name,"w")
