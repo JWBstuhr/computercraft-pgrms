@@ -59,6 +59,7 @@ local function discCheck()
    term.setBackgroundColor(colors.gray)
    prt("()",colors.white)
    term.setBackgroundColor(colors.black)
+   loop = 0
   end
   sleep(0.02)
  end
